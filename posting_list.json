@@ -22816,14 +22816,6 @@
         ],
         28
     ],
-    "12-in": [
-        [
-            "cranfield0007",
-            "cranfield0040",
-            "cranfield1211"
-        ],
-        3
-    ],
     "wind": [
         [
             "cranfield0007",
@@ -26127,50 +26119,6 @@
         ],
         3
     ],
-    "u": [
-        [
-            "cranfield0007",
-            "cranfield0105",
-            "cranfield0148",
-            "cranfield0151",
-            "cranfield0192",
-            "cranfield0325",
-            "cranfield0452",
-            "cranfield0458",
-            "cranfield0459",
-            "cranfield0731",
-            "cranfield0732",
-            "cranfield0771",
-            "cranfield0822",
-            "cranfield0962",
-            "cranfield1082",
-            "cranfield1088",
-            "cranfield1327",
-            "cranfield1365"
-        ],
-        18
-    ],
-    "v": [
-        [
-            "cranfield0007",
-            "cranfield0105",
-            "cranfield0139",
-            "cranfield0148",
-            "cranfield0192",
-            "cranfield0210",
-            "cranfield0263",
-            "cranfield0452",
-            "cranfield0458",
-            "cranfield0612",
-            "cranfield0660",
-            "cranfield0731",
-            "cranfield0732",
-            "cranfield0787",
-            "cranfield1114",
-            "cranfield1365"
-        ],
-        16
-    ],
     "kinematic": [
         [
             "cranfield0007",
@@ -26231,36 +26179,6 @@
             "cranfield1383"
         ],
         42
-    ],
-    "k": [
-        [
-            "cranfield0007",
-            "cranfield0020",
-            "cranfield0043",
-            "cranfield0057",
-            "cranfield0159",
-            "cranfield0299",
-            "cranfield0302",
-            "cranfield0380",
-            "cranfield0442",
-            "cranfield0452",
-            "cranfield0455",
-            "cranfield0606",
-            "cranfield0633",
-            "cranfield0691",
-            "cranfield0706",
-            "cranfield0919",
-            "cranfield0962",
-            "cranfield1011",
-            "cranfield1025",
-            "cranfield1073",
-            "cranfield1157",
-            "cranfield1230",
-            "cranfield1258",
-            "cranfield1333",
-            "cranfield1399"
-        ],
-        25
     ],
     "occurs": [
         [
@@ -26414,87 +26332,6 @@
             "cranfield1336"
         ],
         62
-    ],
-    "x": [
-        [
-            "cranfield0007",
-            "cranfield0009",
-            "cranfield0082",
-            "cranfield0104",
-            "cranfield0105",
-            "cranfield0125",
-            "cranfield0148",
-            "cranfield0150",
-            "cranfield0155",
-            "cranfield0158",
-            "cranfield0189",
-            "cranfield0192",
-            "cranfield0197",
-            "cranfield0219",
-            "cranfield0239",
-            "cranfield0255",
-            "cranfield0263",
-            "cranfield0308",
-            "cranfield0312",
-            "cranfield0315",
-            "cranfield0343",
-            "cranfield0414",
-            "cranfield0423",
-            "cranfield0430",
-            "cranfield0452",
-            "cranfield0458",
-            "cranfield0459",
-            "cranfield0479",
-            "cranfield0519",
-            "cranfield0521",
-            "cranfield0522",
-            "cranfield0528",
-            "cranfield0536",
-            "cranfield0572",
-            "cranfield0602",
-            "cranfield0603",
-            "cranfield0604",
-            "cranfield0646",
-            "cranfield0682",
-            "cranfield0690",
-            "cranfield0691",
-            "cranfield0694",
-            "cranfield0696",
-            "cranfield0709",
-            "cranfield0713",
-            "cranfield0731",
-            "cranfield0759",
-            "cranfield0776",
-            "cranfield0778",
-            "cranfield0793",
-            "cranfield0794",
-            "cranfield0795",
-            "cranfield0797",
-            "cranfield0808",
-            "cranfield0812",
-            "cranfield0815",
-            "cranfield0816",
-            "cranfield0861",
-            "cranfield0879",
-            "cranfield0959",
-            "cranfield0961",
-            "cranfield0962",
-            "cranfield0970",
-            "cranfield0972",
-            "cranfield0976",
-            "cranfield0992",
-            "cranfield1061",
-            "cranfield1212",
-            "cranfield1239",
-            "cranfield1263",
-            "cranfield1270",
-            "cranfield1278",
-            "cranfield1335",
-            "cranfield1349",
-            "cranfield1365",
-            "cranfield1389"
-        ],
-        76
     ],
     "measurements": [
         [
@@ -32166,37 +32003,6 @@
             "cranfield1378"
         ],
         94
-    ],
-    "r": [
-        [
-            "cranfield0009",
-            "cranfield0018",
-            "cranfield0105",
-            "cranfield0128",
-            "cranfield0149",
-            "cranfield0151",
-            "cranfield0157",
-            "cranfield0259",
-            "cranfield0262",
-            "cranfield0263",
-            "cranfield0304",
-            "cranfield0315",
-            "cranfield0417",
-            "cranfield0491",
-            "cranfield0548",
-            "cranfield0571",
-            "cranfield0627",
-            "cranfield0731",
-            "cranfield0750",
-            "cranfield0962",
-            "cranfield1009",
-            "cranfield1040",
-            "cranfield1080",
-            "cranfield1081",
-            "cranfield1136",
-            "cranfield1327"
-        ],
-        26
     ],
     "effective": [
         [
@@ -38787,37 +38593,6 @@
             "cranfield0733"
         ],
         8
-    ],
-    "-": [
-        [
-            "cranfield0014",
-            "cranfield0077",
-            "cranfield0093",
-            "cranfield0198",
-            "cranfield0234",
-            "cranfield0246",
-            "cranfield0273",
-            "cranfield0431",
-            "cranfield0517",
-            "cranfield0548",
-            "cranfield0604",
-            "cranfield0646",
-            "cranfield0649",
-            "cranfield0696",
-            "cranfield0867",
-            "cranfield0883",
-            "cranfield0896",
-            "cranfield0903",
-            "cranfield0914",
-            "cranfield0986",
-            "cranfield1027",
-            "cranfield1089",
-            "cranfield1124",
-            "cranfield1132",
-            "cranfield1134",
-            "cranfield1136"
-        ],
-        26
     ],
     "new": [
         [
@@ -51348,12 +51123,6 @@
         1
     ],
     "sci": [
-        [
-            "cranfield0022"
-        ],
-        1
-    ],
-    "400-401": [
         [
             "cranfield0022"
         ],
@@ -67048,16 +66817,6 @@
         ],
         90
     ],
-    "g": [
-        [
-            "cranfield0044",
-            "cranfield0562",
-            "cranfield0606",
-            "cranfield1345",
-            "cranfield1347"
-        ],
-        5
-    ],
     "unit": [
         [
             "cranfield0044",
@@ -70173,43 +69932,6 @@
             "cranfield1183"
         ],
         14
-    ],
-    "-67.6": [
-        [
-            "cranfield0050"
-        ],
-        1
-    ],
-    "f": [
-        [
-            "cranfield0050",
-            "cranfield0117",
-            "cranfield0150",
-            "cranfield0151",
-            "cranfield0293",
-            "cranfield0296",
-            "cranfield0321",
-            "cranfield0341",
-            "cranfield0455",
-            "cranfield0462",
-            "cranfield0463",
-            "cranfield0478",
-            "cranfield0646",
-            "cranfield0734",
-            "cranfield0738",
-            "cranfield0749",
-            "cranfield0766",
-            "cranfield0858",
-            "cranfield0948",
-            "cranfield1003",
-            "cranfield1020",
-            "cranfield1021",
-            "cranfield1022",
-            "cranfield1025",
-            "cranfield1096",
-            "cranfield1101"
-        ],
-        26
     ],
     "main": [
         [
@@ -73923,32 +73645,6 @@
         ],
         3
     ],
-    "c": [
-        [
-            "cranfield0063",
-            "cranfield0151",
-            "cranfield0159",
-            "cranfield0206",
-            "cranfield0380",
-            "cranfield0452",
-            "cranfield0455",
-            "cranfield0456",
-            "cranfield0536",
-            "cranfield0611",
-            "cranfield0706",
-            "cranfield0731",
-            "cranfield0962",
-            "cranfield1034",
-            "cranfield1040",
-            "cranfield1082",
-            "cranfield1198",
-            "cranfield1289",
-            "cranfield1327",
-            "cranfield1351",
-            "cranfield1370"
-        ],
-        21
-    ],
     "chapman-rubesin": [
         [
             "cranfield0063",
@@ -76045,12 +75741,6 @@
         ],
         5
     ],
-    "1-1/m": [
-        [
-            "cranfield0073"
-        ],
-        1
-    ],
     "turbulen": [
         [
             "cranfield0074",
@@ -76568,17 +76258,6 @@
             "cranfield0608"
         ],
         3
-    ],
-    "q": [
-        [
-            "cranfield0076",
-            "cranfield0773",
-            "cranfield0842",
-            "cranfield0871",
-            "cranfield1073",
-            "cranfield1204"
-        ],
-        6
     ],
     "forward-fuselagesection": [
         [
@@ -78102,13 +77781,6 @@
             "cranfield1354"
         ],
         25
-    ],
-    "4-foot": [
-        [
-            "cranfield0080",
-            "cranfield0809"
-        ],
-        2
     ],
     "granular-type": [
         [
@@ -81823,36 +81495,6 @@
         ],
         5
     ],
-    "n": [
-        [
-            "cranfield0094",
-            "cranfield0104",
-            "cranfield0131",
-            "cranfield0235",
-            "cranfield0249",
-            "cranfield0259",
-            "cranfield0304",
-            "cranfield0401",
-            "cranfield0414",
-            "cranfield0437",
-            "cranfield0458",
-            "cranfield0476",
-            "cranfield0478",
-            "cranfield0734",
-            "cranfield0846",
-            "cranfield0867",
-            "cranfield0883",
-            "cranfield1040",
-            "cranfield1047",
-            "cranfield1061",
-            "cranfield1136",
-            "cranfield1205",
-            "cranfield1236",
-            "cranfield1240",
-            "cranfield1298"
-        ],
-        25
-    ],
     "satisfy": [
         [
             "cranfield0094",
@@ -83141,32 +82783,6 @@
         ],
         16
     ],
-    "b": [
-        [
-            "cranfield0101",
-            "cranfield0159",
-            "cranfield0200",
-            "cranfield0206",
-            "cranfield0377",
-            "cranfield0410",
-            "cranfield0456",
-            "cranfield0523",
-            "cranfield0536",
-            "cranfield0731",
-            "cranfield0744",
-            "cranfield0787",
-            "cranfield0871",
-            "cranfield1025",
-            "cranfield1034",
-            "cranfield1149",
-            "cranfield1172",
-            "cranfield1224",
-            "cranfield1289",
-            "cranfield1320",
-            "cranfield1351"
-        ],
-        21
-    ],
     "rate-governing": [
         [
             "cranfield0101"
@@ -83617,29 +83233,6 @@
             "cranfield0104"
         ],
         1
-    ],
-    "p": [
-        [
-            "cranfield0105",
-            "cranfield0139",
-            "cranfield0151",
-            "cranfield0308",
-            "cranfield0403",
-            "cranfield0414",
-            "cranfield0452",
-            "cranfield0521",
-            "cranfield0611",
-            "cranfield0616",
-            "cranfield0622",
-            "cranfield0744",
-            "cranfield0791",
-            "cranfield0846",
-            "cranfield0962",
-            "cranfield1082",
-            "cranfield1136",
-            "cranfield1376"
-        ],
-        18
     ],
     "successively": [
         [
@@ -84666,15 +84259,6 @@
         ],
         2
     ],
-    "j": [
-        [
-            "cranfield0110",
-            "cranfield0557",
-            "cranfield0660",
-            "cranfield1327"
-        ],
-        4
-    ],
     "automatic": [
         [
             "cranfield0111",
@@ -85700,12 +85284,6 @@
         ],
         3
     ],
-    "381-397": [
-        [
-            "cranfield0118"
-        ],
-        1
-    ],
     "vicinity": [
         [
             "cranfield0118",
@@ -86217,12 +85795,6 @@
         ],
         1
     ],
-    "machnumber-8.0": [
-        [
-            "cranfield0123"
-        ],
-        1
-    ],
     "pibal": [
         [
             "cranfield0123",
@@ -86414,17 +85986,6 @@
             "cranfield1237"
         ],
         8
-    ],
-    "freon-12": [
-        [
-            "cranfield0125",
-            "cranfield0216",
-            "cranfield1290",
-            "cranfield1326",
-            "cranfield1335",
-            "cranfield1336"
-        ],
-        6
     ],
     "realized": [
         [
@@ -89439,39 +89000,11 @@
         ],
         1
     ],
-    "h": [
-        [
-            "cranfield0148",
-            "cranfield0259",
-            "cranfield0377",
-            "cranfield0493",
-            "cranfield0548",
-            "cranfield0606",
-            "cranfield0616",
-            "cranfield0622",
-            "cranfield0731",
-            "cranfield0811",
-            "cranfield0827",
-            "cranfield1365"
-        ],
-        12
-    ],
     "dy": [
         [
             "cranfield0148"
         ],
         1
-    ],
-    "z": [
-        [
-            "cranfield0148",
-            "cranfield0259",
-            "cranfield0499",
-            "cranfield0734",
-            "cranfield0738",
-            "cranfield1173"
-        ],
-        6
     ],
     "oseen": [
         [
@@ -91417,12 +90950,6 @@
         ],
         5
     ],
-    "10-earth-g": [
-        [
-            "cranfield0163"
-        ],
-        1
-    ],
     "singlepass": [
         [
             "cranfield0163"
@@ -92819,12 +92346,6 @@
         ],
         3
     ],
-    "9-inch": [
-        [
-            "cranfield0174"
-        ],
-        1
-    ],
     "testing": [
         [
             "cranfield0174",
@@ -93235,12 +92756,6 @@
             "cranfield1260"
         ],
         5
-    ],
-    "12-inch": [
-        [
-            "cranfield0182"
-        ],
-        1
     ],
     "lowest": [
         [
@@ -94302,12 +93817,6 @@
         ],
         8
     ],
-    "10-percent-thick": [
-        [
-            "cranfield0193"
-        ],
-        1
-    ],
     "slender-airfoil": [
         [
             "cranfield0193"
@@ -94472,12 +93981,6 @@
         ],
         2
     ],
-    "16-foot": [
-        [
-            "cranfield0197"
-        ],
-        1
-    ],
     "incremental": [
         [
             "cranfield0197",
@@ -94539,12 +94042,6 @@
         ],
         1
     ],
-    "120-inch": [
-        [
-            "cranfield0197"
-        ],
-        1
-    ],
     "rear": [
         [
             "cranfield0197",
@@ -94588,12 +94085,6 @@
         1
     ],
     "cowling-spinner": [
-        [
-            "cranfield0198"
-        ],
-        1
-    ],
-    "1-series": [
         [
             "cranfield0198"
         ],
@@ -95664,18 +95155,6 @@
         ],
         4
     ],
-    "20-": [
-        [
-            "cranfield0205"
-        ],
-        1
-    ],
-    "95-percent-semispan": [
-        [
-            "cranfield0205"
-        ],
-        1
-    ],
     "juncture": [
         [
             "cranfield0205",
@@ -95706,27 +95185,6 @@
             "cranfield1224"
         ],
         4
-    ],
-    "e": [
-        [
-            "cranfield0206",
-            "cranfield0259",
-            "cranfield0262",
-            "cranfield0263",
-            "cranfield0414",
-            "cranfield0437",
-            "cranfield0458",
-            "cranfield0528",
-            "cranfield0548",
-            "cranfield0611",
-            "cranfield0613",
-            "cranfield0614",
-            "cranfield0615",
-            "cranfield0787",
-            "cranfield0857",
-            "cranfield1025"
-        ],
-        16
     ],
     "constraining": [
         [
@@ -96981,12 +96439,6 @@
             "cranfield1256"
         ],
         7
-    ],
-    "3.5-inchdiameter": [
-        [
-            "cranfield0218"
-        ],
-        1
     ],
     "diam": [
         [
@@ -98420,12 +97872,6 @@
         4
     ],
     "measurable": [
-        [
-            "cranfield0239"
-        ],
-        1
-    ],
-    "100-230": [
         [
             "cranfield0239"
         ],
@@ -101275,12 +100721,6 @@
         ],
         6
     ],
-    "4-vortex": [
-        [
-            "cranfield0289"
-        ],
-        1
-    ],
     "centroids": [
         [
             "cranfield0289"
@@ -101554,12 +100994,6 @@
         ],
         2
     ],
-    "1-4": [
-        [
-            "cranfield0293"
-        ],
-        1
-    ],
     "contrary": [
         [
             "cranfield0293",
@@ -101570,20 +101004,7 @@
         ],
         5
     ],
-    "2-5": [
-        [
-            "cranfield0293",
-            "cranfield0677"
-        ],
-        2
-    ],
     "sharp-tip": [
-        [
-            "cranfield0293"
-        ],
-        1
-    ],
-    "-340": [
         [
             "cranfield0293"
         ],
@@ -102177,18 +101598,6 @@
         ],
         15
     ],
-    "16-series": [
-        [
-            "cranfield0312"
-        ],
-        1
-    ],
-    "-10": [
-        [
-            "cranfield0312"
-        ],
-        1
-    ],
     "numerous": [
         [
             "cranfield0313",
@@ -102689,12 +102098,6 @@
             "cranfield0661"
         ],
         2
-    ],
-    "-0.0904": [
-        [
-            "cranfield0325"
-        ],
-        1
     ],
     "reveals": [
         [
@@ -103992,18 +103395,6 @@
         ],
         1
     ],
-    "w": [
-        [
-            "cranfield0362",
-            "cranfield0731",
-            "cranfield0734",
-            "cranfield0842",
-            "cranfield1033",
-            "cranfield1088",
-            "cranfield1175"
-        ],
-        7
-    ],
     "stall": [
         [
             "cranfield0363",
@@ -104487,19 +103878,6 @@
             "cranfield1309"
         ],
         2
-    ],
-    "10-": [
-        [
-            "cranfield0373",
-            "cranfield0686"
-        ],
-        2
-    ],
-    "14-in": [
-        [
-            "cranfield0373"
-        ],
-        1
     ],
     "ames": [
         [
@@ -106061,18 +105439,6 @@
         ],
         1
     ],
-    "117-142": [
-        [
-            "cranfield0417"
-        ],
-        1
-    ],
-    "218-234": [
-        [
-            "cranfield0417"
-        ],
-        1
-    ],
     "proof": [
         [
             "cranfield0417",
@@ -106454,19 +105820,7 @@
         ],
         1
     ],
-    "7-1": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
     "gasdynamical": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
-    "7-2": [
         [
             "cranfield0427"
         ],
@@ -106479,19 +105833,7 @@
         ],
         2
     ],
-    "7-3": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
     "electro-hydrodynamic": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
-    "7-4": [
         [
             "cranfield0427"
         ],
@@ -106504,54 +105846,6 @@
         ],
         2
     ],
-    "7-5": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
-    "7-6": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
-    "7-7": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
-    "7-8": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
-    "7-9": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
-    "7-10": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
-    "7-11": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
-    "7-12": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
     "impulse": [
         [
             "cranfield0427",
@@ -106560,25 +105854,7 @@
         ],
         3
     ],
-    "7-13": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
-    "7-14": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
     "overhang": [
-        [
-            "cranfield0427"
-        ],
-        1
-    ],
-    "7-15": [
         [
             "cranfield0427"
         ],
@@ -107736,12 +107012,6 @@
         ],
         2
     ],
-    "p-43": [
-        [
-            "cranfield0462"
-        ],
-        1
-    ],
     "room": [
         [
             "cranfield0462",
@@ -107749,12 +107019,6 @@
             "cranfield1335"
         ],
         3
-    ],
-    "-40": [
-        [
-            "cranfield0462"
-        ],
-        1
     ],
     "descriptions": [
         [
@@ -107871,19 +107135,7 @@
         ],
         1
     ],
-    "6000-op": [
-        [
-            "cranfield0463"
-        ],
-        1
-    ],
     "potentially": [
-        [
-            "cranfield0463"
-        ],
-        1
-    ],
-    "-60": [
         [
             "cranfield0463"
         ],
@@ -108137,12 +107389,6 @@
         ],
         2
     ],
-    "7-113": [
-        [
-            "cranfield0473"
-        ],
-        1
-    ],
     "high-velocity": [
         [
             "cranfield0474",
@@ -108153,12 +107399,6 @@
         4
     ],
     "quadratures": [
-        [
-            "cranfield0474"
-        ],
-        1
-    ],
-    "0.76-power": [
         [
             "cranfield0474"
         ],
@@ -108285,18 +107525,6 @@
         ],
         3
     ],
-    "-1.23849": [
-        [
-            "cranfield0478"
-        ],
-        1
-    ],
-    "-1.2": [
-        [
-            "cranfield0478"
-        ],
-        1
-    ],
     "cussed": [
         [
             "cranfield0478"
@@ -108328,12 +107556,6 @@
             "cranfield0548"
         ],
         2
-    ],
-    "-0.199": [
-        [
-            "cranfield0479"
-        ],
-        1
     ],
     "combustible": [
         [
@@ -108587,12 +107809,6 @@
         1
     ],
     "ias": [
-        [
-            "cranfield0488"
-        ],
-        1
-    ],
-    "62-67": [
         [
             "cranfield0488"
         ],
@@ -110108,12 +109324,6 @@
         ],
         1
     ],
-    "0.22-in": [
-        [
-            "cranfield0536"
-        ],
-        1
-    ],
     "projectile": [
         [
             "cranfield0536",
@@ -110698,12 +109908,6 @@
         ],
         1
     ],
-    "0.500-in.-diameter": [
-        [
-            "cranfield0558"
-        ],
-        1
-    ],
     "motion-picture": [
         [
             "cranfield0558"
@@ -110893,17 +110097,6 @@
         ],
         1
     ],
-    "11-inch": [
-        [
-            "cranfield0567",
-            "cranfield0689",
-            "cranfield1349",
-            "cranfield1351",
-            "cranfield1353",
-            "cranfield1354"
-        ],
-        6
-    ],
     "grimminger": [
         [
             "cranfield0567"
@@ -110927,12 +110120,6 @@
         4
     ],
     "thins": [
-        [
-            "cranfield0569"
-        ],
-        1
-    ],
-    "5-dash": [
         [
             "cranfield0569"
         ],
@@ -111006,12 +110193,6 @@
         1
     ],
     "strong-interaction": [
-        [
-            "cranfield0572"
-        ],
-        1
-    ],
-    "15-dashin": [
         [
             "cranfield0572"
         ],
@@ -112159,13 +111340,6 @@
         ],
         5
     ],
-    "5-10": [
-        [
-            "cranfield0614",
-            "cranfield0622"
-        ],
-        2
-    ],
     "upper-atmosphere": [
         [
             "cranfield0616",
@@ -112181,12 +111355,6 @@
         2
     ],
     "quadratically": [
-        [
-            "cranfield0616"
-        ],
-        1
-    ],
-    "p-28.59/0.15/-h-200//46/5/0.028/0.013//h-200///46/": [
         [
             "cranfield0616"
         ],
@@ -112283,12 +111451,6 @@
         ],
         1
     ],
-    "200-700": [
-        [
-            "cranfield0620"
-        ],
-        1
-    ],
     "rockets": [
         [
             "cranfield0620",
@@ -112307,12 +111469,6 @@
         1
     ],
     "kallmann": [
-        [
-            "cranfield0620"
-        ],
-        1
-    ],
-    "20-cm": [
         [
             "cranfield0620"
         ],
@@ -112374,12 +111530,6 @@
         ],
         1
     ],
-    "1958-october": [
-        [
-            "cranfield0620"
-        ],
-        1
-    ],
     "physcal": [
         [
             "cranfield0620"
@@ -112387,12 +111537,6 @@
         1
     ],
     "fllayer": [
-        [
-            "cranfield0620"
-        ],
-        1
-    ],
-    "f2-layer": [
         [
             "cranfield0620"
         ],
@@ -112487,12 +111631,6 @@
         ],
         1
     ],
-    "200-450": [
-        [
-            "cranfield0622"
-        ],
-        1
-    ],
     "declined": [
         [
             "cranfield0622"
@@ -112500,12 +111638,6 @@
         1
     ],
     "supposition": [
-        [
-            "cranfield0622"
-        ],
-        1
-    ],
-    "1959-61": [
         [
             "cranfield0622"
         ],
@@ -113048,20 +112180,6 @@
         ],
         2
     ],
-    "7-": [
-        [
-            "cranfield0638",
-            "cranfield1095"
-        ],
-        2
-    ],
-    "10-foot": [
-        [
-            "cranfield0638",
-            "cranfield1095"
-        ],
-        2
-    ],
     "upper-and": [
         [
             "cranfield0638"
@@ -113579,12 +112697,6 @@
         1
     ],
     "saunders-roe": [
-        [
-            "cranfield0649"
-        ],
-        1
-    ],
-    "sr-n1": [
         [
             "cranfield0649"
         ],
@@ -114207,19 +113319,7 @@
         ],
         1
     ],
-    "charts/figs.1-6/": [
-        [
-            "cranfield0677"
-        ],
-        1
-    ],
     "proposition": [
-        [
-            "cranfield0677"
-        ],
-        1
-    ],
-    "8-30": [
         [
             "cranfield0677"
         ],
@@ -114520,18 +113620,6 @@
             "cranfield0937"
         ],
         2
-    ],
-    "5-": [
-        [
-            "cranfield0686"
-        ],
-        1
-    ],
-    "15-percent": [
-        [
-            "cranfield0686"
-        ],
-        1
     ],
     "beveled": [
         [
@@ -115162,12 +114250,6 @@
         ],
         1
     ],
-    "-4degrees": [
-        [
-            "cranfield0709"
-        ],
-        1
-    ],
     "pitch-up": [
         [
             "cranfield0709",
@@ -115340,12 +114422,6 @@
         ],
         10
     ],
-    "-40degree": [
-        [
-            "cranfield0717"
-        ],
-        1
-    ],
     "six-degree-offreedom": [
         [
             "cranfield0717"
@@ -115364,12 +114440,6 @@
             "cranfield0947"
         ],
         2
-    ],
-    "10-rpm": [
-        [
-            "cranfield0717"
-        ],
-        1
     ],
     "ample": [
         [
@@ -115966,12 +115036,6 @@
             "cranfield0883"
         ],
         3
-    ],
-    "2024-t3": [
-        [
-            "cranfield0727"
-        ],
-        1
     ],
     "aluminumalloy": [
         [
@@ -117284,12 +116348,6 @@
         ],
         8
     ],
-    "3003-0": [
-        [
-            "cranfield0760"
-        ],
-        1
-    ],
     "overestimation": [
         [
             "cranfield0760"
@@ -117928,12 +116986,6 @@
         ],
         1
     ],
-    "r-48": [
-        [
-            "cranfield0781"
-        ],
-        1
-    ],
     "centers": [
         [
             "cranfield0781",
@@ -118547,12 +117599,6 @@
         ],
         1
     ],
-    "f-100": [
-        [
-            "cranfield0804"
-        ],
-        1
-    ],
     "edwards": [
         [
             "cranfield0804"
@@ -118572,12 +117618,6 @@
         1
     ],
     "directive": [
-        [
-            "cranfield0804"
-        ],
-        1
-    ],
-    "5524-f1": [
         [
             "cranfield0804"
         ],
@@ -118689,12 +117729,6 @@
         ],
         1
     ],
-    "d-48": [
-        [
-            "cranfield0806"
-        ],
-        1
-    ],
     "amplification": [
         [
             "cranfield0806",
@@ -118751,12 +117785,6 @@
     "far-field": [
         [
             "cranfield0808"
-        ],
-        1
-    ],
-    "4-": [
-        [
-            "cranfield0809"
         ],
         1
     ],
@@ -118824,12 +117852,6 @@
     "whichever": [
         [
             "cranfield0811"
-        ],
-        1
-    ],
-    "fineness-ratio-2.71": [
-        [
-            "cranfield0812"
         ],
         1
     ],
@@ -119993,19 +119015,6 @@
         ],
         1
     ],
-    "l": [
-        [
-            "cranfield0857",
-            "cranfield0890",
-            "cranfield0962",
-            "cranfield1131",
-            "cranfield1136",
-            "cranfield1188",
-            "cranfield1218",
-            "cranfield1365"
-        ],
-        8
-    ],
     "four-bay": [
         [
             "cranfield0858"
@@ -120050,24 +119059,6 @@
         ],
         1
     ],
-    "9-": [
-        [
-            "cranfield0859"
-        ],
-        1
-    ],
-    "6-foot": [
-        [
-            "cranfield0859"
-        ],
-        1
-    ],
-    "17-7": [
-        [
-            "cranfield0859"
-        ],
-        1
-    ],
     "ph": [
         [
             "cranfield0859"
@@ -120088,13 +119079,6 @@
             "cranfield1356"
         ],
         3
-    ],
-    "x-15": [
-        [
-            "cranfield0859",
-            "cranfield0948"
-        ],
-        2
     ],
     "unsupported": [
         [
@@ -120135,12 +119119,6 @@
         1
     ],
     "multi": [
-        [
-            "cranfield0860"
-        ],
-        1
-    ],
-    "mw-1": [
         [
             "cranfield0860"
         ],
@@ -121064,12 +120042,6 @@
         ],
         2
     ],
-    "0.02-in": [
-        [
-            "cranfield0912"
-        ],
-        1
-    ],
     "thermal-layer": [
         [
             "cranfield0912"
@@ -121926,12 +120898,6 @@
         ],
         1
     ],
-    "d-693": [
-        [
-            "cranfield0949"
-        ],
-        1
-    ],
     "charted": [
         [
             "cranfield0949",
@@ -122506,12 +121472,6 @@
         ],
         1
     ],
-    "9,000-10,000": [
-        [
-            "cranfield0976"
-        ],
-        1
-    ],
     "observer": [
         [
             "cranfield0976"
@@ -122538,12 +121498,6 @@
         1
     ],
     "mc": [
-        [
-            "cranfield0976"
-        ],
-        1
-    ],
-    "100,000-ft": [
         [
             "cranfield0976"
         ],
@@ -122668,12 +121622,6 @@
     "molybdenum": [
         [
             "cranfield0982"
-        ],
-        1
-    ],
-    "r-ft1/8": [
-        [
-            "cranfield0983"
         ],
         1
     ],
@@ -122976,12 +121924,6 @@
         ],
         3
     ],
-    "20-percent-body": [
-        [
-            "cranfield0992"
-        ],
-        1
-    ],
     "gardless": [
         [
             "cranfield0992"
@@ -123090,12 +122032,6 @@
         ],
         3
     ],
-    "-4degree": [
-        [
-            "cranfield1001"
-        ],
-        1
-    ],
     "damping-in-pitch": [
         [
             "cranfield1001"
@@ -123150,12 +122086,6 @@
         ],
         1
     ],
-    "2-inch": [
-        [
-            "cranfield1004"
-        ],
-        1
-    ],
     "contaminating": [
         [
             "cranfield1004"
@@ -123175,12 +122105,6 @@
         1
     ],
     "faced": [
-        [
-            "cranfield1005"
-        ],
-        1
-    ],
-    "-90": [
         [
             "cranfield1005"
         ],
@@ -123353,12 +122277,6 @@
         ],
         2
     ],
-    "24s-t4": [
-        [
-            "cranfield1019"
-        ],
-        1
-    ],
     "load-capacity": [
         [
             "cranfield1019"
@@ -123427,24 +122345,6 @@
         ],
         1
     ],
-    "40-inch": [
-        [
-            "cranfield1022"
-        ],
-        1
-    ],
-    "16-inch": [
-        [
-            "cranfield1022"
-        ],
-        1
-    ],
-    "5052-0": [
-        [
-            "cranfield1022"
-        ],
-        1
-    ],
     "oven": [
         [
             "cranfield1022"
@@ -123476,12 +122376,6 @@
         1
     ],
     "strain-time": [
-        [
-            "cranfield1025"
-        ],
-        1
-    ],
-    "75s-t6": [
         [
             "cranfield1025"
         ],
@@ -123523,13 +122417,6 @@
             "cranfield1027"
         ],
         1
-    ],
-    "7075-t6": [
-        [
-            "cranfield1027",
-            "cranfield1122"
-        ],
-        2
     ],
     "iron": [
         [
@@ -124192,12 +123079,6 @@
         ],
         1
     ],
-    "ibm-704": [
-        [
-            "cranfield1061"
-        ],
-        1
-    ],
     "beane": [
         [
             "cranfield1062",
@@ -124253,24 +123134,12 @@
         ],
         9
     ],
-    "2-percent": [
-        [
-            "cranfield1064"
-        ],
-        1
-    ],
     "deflected-slipstream": [
         [
             "cranfield1064",
             "cranfield1089"
         ],
         2
-    ],
-    "40-percent": [
-        [
-            "cranfield1064"
-        ],
-        1
     ],
     "five-stage": [
         [
@@ -124466,12 +123335,6 @@
         ],
         1
     ],
-    "m-2": [
-        [
-            "cranfield1074"
-        ],
-        1
-    ],
     "nonuniformities": [
         [
             "cranfield1074",
@@ -124518,18 +123381,6 @@
     "kirchhoff": [
         [
             "cranfield1081"
-        ],
-        1
-    ],
-    "1-dash": [
-        [
-            "cranfield1082"
-        ],
-        1
-    ],
-    "2-dash": [
-        [
-            "cranfield1082"
         ],
         1
     ],
@@ -124600,12 +123451,6 @@
         1
     ],
     "/over-relax/": [
-        [
-            "cranfield1088"
-        ],
-        1
-    ],
-    "307-357": [
         [
             "cranfield1088"
         ],
@@ -124759,25 +123604,7 @@
         ],
         1
     ],
-    "15-foot-span": [
-        [
-            "cranfield1092"
-        ],
-        1
-    ],
     "tractor": [
-        [
-            "cranfield1092"
-        ],
-        1
-    ],
-    "5-foot": [
-        [
-            "cranfield1092"
-        ],
-        1
-    ],
-    "30-foot": [
         [
             "cranfield1092"
         ],
@@ -125044,12 +123871,6 @@
             "cranfield1101"
         ],
         2
-    ],
-    "6-inchdiameter": [
-        [
-            "cranfield1098"
-        ],
-        1
     ],
     "unablated": [
         [
@@ -125323,18 +124144,6 @@
         3
     ],
     "midchord": [
-        [
-            "cranfield1115"
-        ],
-        1
-    ],
-    "10-percentthick": [
-        [
-            "cranfield1115"
-        ],
-        1
-    ],
-    "3-percent-thick": [
         [
             "cranfield1115"
         ],
@@ -126205,19 +125014,7 @@
         ],
         1
     ],
-    "6500-foot-per-second": [
-        [
-            "cranfield1159"
-        ],
-        1
-    ],
     "shock-compressed": [
-        [
-            "cranfield1159"
-        ],
-        1
-    ],
-    "0.003-": [
         [
             "cranfield1159"
         ],
@@ -126274,12 +125071,6 @@
         ],
         1
     ],
-    "6-blade": [
-        [
-            "cranfield1162"
-        ],
-        1
-    ],
     "tilted": [
         [
             "cranfield1162",
@@ -126307,12 +125098,6 @@
             "cranfield1164"
         ],
         2
-    ],
-    "3-blade": [
-        [
-            "cranfield1163"
-        ],
-        1
     ],
     "single-rotation": [
         [
@@ -126641,12 +125426,6 @@
             "cranfield1177"
         ],
         2
-    ],
-    "vz-2": [
-        [
-            "cranfield1170"
-        ],
-        1
     ],
     "hover": [
         [
@@ -127204,24 +125983,6 @@
         ],
         1
     ],
-    "6-12": [
-        [
-            "cranfield1199"
-        ],
-        1
-    ],
-    "8-percent": [
-        [
-            "cranfield1199"
-        ],
-        1
-    ],
-    "1-percent": [
-        [
-            "cranfield1199"
-        ],
-        1
-    ],
     "newton": [
         [
             "cranfield1201"
@@ -127375,12 +126136,6 @@
         1
     ],
     "hemi-": [
-        [
-            "cranfield1205"
-        ],
-        1
-    ],
-    "9-in": [
         [
             "cranfield1205"
         ],
@@ -127542,12 +126297,6 @@
         ],
         1
     ],
-    "18-in": [
-        [
-            "cranfield1212"
-        ],
-        1
-    ],
     "sand-grain": [
         [
             "cranfield1212"
@@ -127573,18 +126322,6 @@
         1
     ],
     "aerothermodynamic": [
-        [
-            "cranfield1213"
-        ],
-        1
-    ],
-    "11-": [
-        [
-            "cranfield1213"
-        ],
-        1
-    ],
-    "15-in": [
         [
             "cranfield1213"
         ],
@@ -127633,12 +126370,6 @@
         1
     ],
     "fineness-ratio": [
-        [
-            "cranfield1214"
-        ],
-        1
-    ],
-    "20,000-fold": [
         [
             "cranfield1214"
         ],
@@ -128019,12 +126750,6 @@
         ],
         1
     ],
-    "40-50": [
-        [
-            "cranfield1229"
-        ],
-        1
-    ],
     "cosine": [
         [
             "cranfield1229"
@@ -128089,12 +126814,6 @@
     "murphy": [
         [
             "cranfield1235"
-        ],
-        1
-    ],
-    "536-537": [
-        [
-            "cranfield1236"
         ],
         1
     ],
@@ -128764,12 +127483,6 @@
         1
     ],
     "hypass": [
-        [
-            "cranfield1270"
-        ],
-        1
-    ],
-    "f8u-3": [
         [
             "cranfield1270"
         ],
@@ -129765,12 +128478,6 @@
         ],
         1
     ],
-    "5-ft": [
-        [
-            "cranfield1325"
-        ],
-        1
-    ],
     "ascertained": [
         [
             "cranfield1325"
@@ -129810,18 +128517,6 @@
     "sucked": [
         [
             "cranfield1325"
-        ],
-        1
-    ],
-    "1300-": [
-        [
-            "cranfield1326"
-        ],
-        1
-    ],
-    "1500-lb": [
-        [
-            "cranfield1326"
         ],
         1
     ],
@@ -130019,13 +128714,6 @@
         ],
         1
     ],
-    "26-inch": [
-        [
-            "cranfield1338",
-            "cranfield1341"
-        ],
-        2
-    ],
     "sweptback-wing": [
         [
             "cranfield1338"
@@ -130081,18 +128769,6 @@
         1
     ],
     "designated": [
-        [
-            "cranfield1341"
-        ],
-        1
-    ],
-    "aspect-ratio-2": [
-        [
-            "cranfield1341"
-        ],
-        1
-    ],
-    "aspect-ratio-6": [
         [
             "cranfield1341"
         ],
@@ -130273,12 +128949,6 @@
         ],
         1
     ],
-    "2-foot": [
-        [
-            "cranfield1350"
-        ],
-        1
-    ],
     "plumes": [
         [
             "cranfield1351"
@@ -130298,12 +128968,6 @@
         1
     ],
     "unitary": [
-        [
-            "cranfield1351"
-        ],
-        1
-    ],
-    "-4": [
         [
             "cranfield1351"
         ],
